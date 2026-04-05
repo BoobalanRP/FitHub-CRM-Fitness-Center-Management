@@ -15,4 +15,4 @@
   - Optimize trainer/resource usage
   - Provide real-time analytics for management decisions
 
-Project documentation link: [https://drive.google.com/file/d/1NLiOK427q-eKnxu8TIhpFC9r2VmhifXY/view?usp=sharing](https://drive.google.com/file/d/1NLiOK427q-eKnxu8TIhpFC9r2VmhifXY/view?usp=sharing)
+Project documentation link: [https://drive.google.com/drive/folders/1jr14wGcMXata0D_ObGS_n1a9J5VuFU_6?usp=sharing](https://drive.google.com/drive/folders/1jr14wGcMXata0D_ObGS_n1a9J5VuFU_6?usp=sharing)
